@@ -1,0 +1,214 @@
+Error loading background image: Background image not found at D:\python\image.jpg
+Error loading background image: Background image not found at D:\python\image.jpg
+Error loading background image: Background image not found at D:\python\image.jpg
+Error loading background image: Background image not found at D:\python\image.jpg
+Error loading background image: Background image not found at D:\python\image.jpg
+Error loading background image: Background image not found at D:\python\image.jpg
+Error loading background image: Background image not found at D:\python\image.jpg
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:21.883291 - Error connecting to client 0.0.0.1: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:21.883487 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:23.143048 - Error connecting to client 0.0.0.2: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:23.143234 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:23.566943 - Error connecting to client 0.0.0.3: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:23.567114 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:23.734858 - Error connecting to client 0.0.0.4: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:23.735033 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:23.919260 - Error connecting to client 0.0.0.5: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:23.919430 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:24.102844 - Error connecting to client 0.0.0.6: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:24.103011 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:24.286936 - Error connecting to client 0.0.0.7: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:24.287135 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:24.463080 - Error connecting to client 0.0.0.8: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:24.463255 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:24.646844 - Error connecting to client 0.0.0.9: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:24.647008 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:24.830805 - Error connecting to client 0.0.0.10: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:24.831028 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:25.023307 - Error connecting to client 0.0.0.11: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:25.023479 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:25.198858 - Error connecting to client 0.0.0.12: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:25.199031 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:25.383249 - Error connecting to client 0.0.0.13: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:25.383425 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:25.567127 - Error connecting to client 0.0.0.14: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:25.567297 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:25.775277 - Error connecting to client 0.0.0.15: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:25.775438 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:25.974736 - Error connecting to client 0.0.0.16: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:25.974900 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:26.174639 - Error connecting to client 0.0.0.17: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:26.174815 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:26.367145 - Error connecting to client 0.0.0.18: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:26.367304 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:26.550835 - Error connecting to client 0.0.0.19: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:26.551005 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:26.735073 - Error connecting to client 0.0.0.20: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:26.735231 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:26.926763 - Error connecting to client 0.0.0.21: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:26.926928 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:27.118806 - Error connecting to client 0.0.0.22: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:27.118964 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:27.311161 - Error connecting to client 0.0.0.23: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:27.311323 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:27.511456 - Error connecting to client 0.0.0.24: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:27.511619 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:27.719099 - Error connecting to client 0.0.0.25: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:27.719256 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:27.910890 - Error connecting to client 0.0.0.26: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:27.911053 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:28.103197 - Error connecting to client 0.0.0.27: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:28.103384 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:28.303129 - Error connecting to client 0.0.0.28: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:28.303305 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:28.495024 - Error connecting to client 0.0.0.29: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:28.495191 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:28.678780 - Error connecting to client 0.0.0.30: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:28.678941 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:28.879578 - Error connecting to client 0.0.0.31: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:28.879742 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:29.079010 - Error connecting to client 0.0.0.32: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:29.079171 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:29.255126 - Error connecting to client 0.0.0.33: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:29.255348 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:29.463102 - Error connecting to client 0.0.0.34: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:29.463290 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:29.662759 - Error connecting to client 0.0.0.35: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:29.662925 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:29.855017 - Error connecting to client 0.0.0.36: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:29.855181 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:30.063376 - Error connecting to client 0.0.0.37: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:30.063538 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:30.255151 - Error connecting to client 0.0.0.38: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:30.255309 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:30.454944 - Error connecting to client 0.0.0.39: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:30.455110 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:30.646877 - Error connecting to client 0.0.0.40: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:30.647037 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:30.846984 - Error connecting to client 0.0.0.41: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:30.847144 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:31.039133 - Error connecting to client 0.0.0.42: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:31.039330 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:31.239212 - Error connecting to client 0.0.0.43: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:31.239382 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:31.438395 - Error connecting to client 0.0.0.44: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:31.438566 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:31.622041 - Error connecting to client 0.0.0.45: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:31.622227 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:33.610587 - Error connecting to client 0.0.0.46: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:33.611166 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:33.944397 - Error connecting to client 0.0.0.47: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:33.944744 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:34.131919 - Error connecting to client 0.0.0.48: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:34.132195 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:34.318564 - Error connecting to client 0.0.0.49: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:34.319163 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:34.509376 - Error connecting to client 0.0.0.50: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:34.509917 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:34.705732 - Error connecting to client 0.0.0.51: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:34.706288 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:34.886687 - Error connecting to client 0.0.0.52: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:34.887212 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:35.071696 - Error connecting to client 0.0.0.53: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:35.072230 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:35.244055 - Error connecting to client 0.0.0.54: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:35.244580 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:35.438263 - Error connecting to client 0.0.0.55: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:35.438784 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:35.623322 - Error connecting to client 0.0.0.56: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:35.623953 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:35.821839 - Error connecting to client 0.0.0.57: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:35.822358 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:36.001047 - Error connecting to client 0.0.0.58: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:36.001581 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:37.287003 - Error connecting to client 0.0.0.59: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:37.287168 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:37.510936 - Error connecting to client 0.0.0.60: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:37.511097 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:37.702917 - Error connecting to client 0.0.0.61: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:37.703076 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:37.903094 - Error connecting to client 0.0.0.62: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:37.903261 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:38.094952 - Error connecting to client 0.0.0.63: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:38.095113 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:38.287188 - Error connecting to client 0.0.0.64: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:38.287378 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:40.301799 - Error connecting to client 0.0.0.26: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:40.302508 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:42.213281 - Error connecting to client 0.0.0.27: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-02-07 19:00:42.213827 - Network unreachable: [WinError 10051] A socket operation was attempted to an unreachable network
+Error loading background image: Background image not found at D:\python\QL-PT\image.jpg
+Error loading background image: Background image not found at D:\python\QL-PT\image.jpg
+Error loading background image: Background image not found at E:\Thinh\python\QL-PT\image.jpg
+Error sending to server: Expecting value: line 1 column 1 (char 0)
+Error sending to server: Expecting value: line 1 column 1 (char 0)

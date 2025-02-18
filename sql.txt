@@ -1,0 +1,22 @@
+CREATE DATABASE taikhoan;
+USE taikhoan;
+
+CREATE TABLE TAIKHOAN (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(50) NOT NULL UNIQUE,
+    password VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE login_log (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(50),
+    login_time DATETIME,
+    client_ip VARCHAR(50)
+);
+
+pip install mysql-connector-python
+pip install pillow
+pip install pandas
+pip install tkcalendar
+pip install pyautogui
+pip3 install fpdf
